@@ -1,0 +1,54 @@
+{
+  "home": "Home",
+  "about": "About Me",
+  "skills": "Skills",
+  "experience": "Experience",
+  "projects": "Projects",
+  "language": "Language",
+  "readMore": "Read More",
+    "home1": {
+        "greeting": "Hello, I'm",
+        "description": "Systems engineer with experience in frontend and backend development. I'm interested in learning new technologies and improving my skills.",
+        "download": "Download CV"
+    },
+    "about1": {
+        "title": "About Me",
+        "paragraph1": "I’m passionate about technology, especially everything related to the blockchain ecosystem, smart contracts, and decentralized solutions. I work with modern frontend and backend technologies and I'm always researching how to integrate Web3 into real-world solutions.",
+        "paragraph2": "I finished my degree in January of this year and since then I’ve been focused on learning more and building projects that combine innovation, usability, and high performance."
+    },
+    "skills1": {
+        "title": "Developer Skills"
+    },
+    "experience1": {
+        "titleE": "Experience",
+        "1": {
+            "title": "UTEPSA",
+            "position": "Network and Systems Lab Assistant",
+            "duration": "2019 - 2020",
+            "description": "Participated in web development using fundamental technologies. Performed preventive and corrective maintenance of computer equipment. Configured Cisco and Mikrotik networking devices, including routing and LAN management. Supported technical teams during academic competitions and technology events."
+        },
+        "2": {
+            "title": "UTEPSA",
+            "position": "Educational Technology Development Center Assistant",
+            "duration": "2020 - 2021",
+            "description": "Developed video games using Godot Engine with OOP and interactive design. Administered Moodle learning platforms, managing educational content. Customized WordPress sites and built web apps using JavaScript, React, and MongoDB."
+        },
+        "3": {
+            "title": "UTEPSA",
+            "position": "Educational Technology Center Assistant",
+            "duration": "2021 - 2022",
+            "description": "Developed dynamic websites using JavaScript, Node.js, Express, and MySQL. Used tools like GNS3 and VMware for network and server management. Configured services like DNS, Active Directory, Exchange, and SSL protocols. Managed AWS services including EC2 instances and basic networking. Handled IIS for enterprise-level web services."
+        }
+    },
+    "projects1": {
+        "titleP": "Projects",
+        "1": {
+            "title": "Repair Control System for Electrobol",
+            "description": "Repair management project for the company Electrobol, where customers, products and repairs can be managed."
+        },
+        "2": {
+            "title": "Administrative system for football championship management",
+            "description": "Football tournament management system to organize teams, players and match schedules (fixtures)."
+        }
+    }
+}

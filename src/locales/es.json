@@ -1,0 +1,55 @@
+{
+  "home": "Inicio",
+  "about": "Sobre mí",
+  "skills": "Habilidades",
+  "experience": "Experiencia",
+  "projects": "Proyectos",
+  "language": "Idioma",
+  "readMore": "Leer más",
+  "home1": {
+        "greeting": "Hola, soy",
+        "description": "Ingeniero de sistemas con experiencia en desarrollo frontend y backend. Estoy interesado en aprender nuevas tecnologías y mejorar mis habilidades.",
+        "download": "Descargar CV"
+    },
+    "about1": {
+        "title": "Sobre mí",
+        "paragraph1": "Me apasiona la tecnología, especialmente todo lo relacionado con el ecosistema blockchain, contratos inteligentes y soluciones descentralizadas. Trabajo con tecnologías modernas en el frontend y backend, y siempre estoy investigando cómo integrar la Web3 a soluciones reales.",
+        "paragraph2": "Terminé mi carrera en enero de este año y desde entonces he estado enfocado en seguir aprendiendo y construyendo proyectos que mezclen innovación, usabilidad y alto rendimiento."
+    },
+    "skills1": {
+        "title": "Habilidades de Desarrollo"
+    },
+    "experience1": {
+        "titleE": "Experiencia",
+        "1": {
+            "title": "UTEPSA",
+            "position": "Auxiliar del Laboratorio de Redes y Sistemas",
+            "duration": "2019 - 2020",
+            "description": "Participación en el desarrollo de sitios web utilizando tecnologías web fundamentales. Realicé mantenimiento preventivo y correctivo de equipos de cómputo. Configuré equipos de red Cisco y Mikrotik, incluyendo tareas de enrutamiento y gestión de redes LAN. Colaboré como parte del staff técnico en competiciones académicas y eventos tecnológicos."
+        },
+        "2": {
+            "title": "UTEPSA",
+            "position": "Auxiliar del Centro de Desarrollo Tecnológico Educativo",
+            "duration": "2020 - 2021",
+            "description": "Desarrollé videojuegos utilizando el motor gráfico Godot Engine, aplicando principios de programación orientada a objetos y diseño interactivo. Administré plataformas educativas como Moodle, incluyendo la creación y gestión de contenidos de aprendizaje. Gestioné y personalicé sitios web mediante WordPress. Desarrollé aplicaciones web utilizando JavaScript, React y bases de datos NoSQL como MongoDB."
+        },
+        "3": {
+            "title": "UTEPSA",
+            "position": "Auxiliar del Centro Tecnológico Educativo",
+            "duration": "2021 - 2022",
+            "description": "Desarrollé sitios web dinámicos empleando tecnologías como JavaScript, Node.js, Express y bases de datos relacionales con MySQL. Utilicé herramientas de simulación y virtualización como GNS3 y VMware para la configuración y gestión de entornos de red y servidores. Configuré servidores con servicios como DNS, Active Directory, Exchange y protocolos SSL. Gestioné servicios en la nube utilizando Amazon Web Services (AWS), incluyendo la implementación de instancias EC2 y servicios básicos de red. Administré servicios web a través de Internet Information Services (IIS), optimizando su configuración para entornos empresariales."
+    }
+  },
+  "projects1": {
+        "titleP": "Proyectos",
+        "1": {
+            "title": "Sistema de Control de reparaciones Electrobol",
+            "description": "Proyecto de control de reparaciones para la empresa Electrobol, donde se puede gestionar los clientes, productos y reparaciones."
+        },
+        "2": {
+            "title": "Sistema administrativo para la gestión de campeonatos de futbol",
+            "description": "Proyecto de control de campeonatos de futbol, donde se puede gestionar los equipos, jugadores y el cronograma de partidos (fixture)."
+        }
+    } 
+}
+
