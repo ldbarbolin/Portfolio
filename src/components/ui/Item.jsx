@@ -17,7 +17,7 @@ const Section = ({ title, items }) => {
   return (
     <div className='flex flex-col px-3 py-6 w-auto rounded-xl bg-stone-950'>
       <h2 className='text-2xl font-bold mb-2 text-amber-500 bg-clip-text text-left'>{title}</h2>
-      <div className='flex gap-5 py-2 items-center justify-center mb-6'>
+      <div className='grid grid-cols-4 md:flex gap-5 py-2 items-center justify-center mb-6'>
         {items.map(item => <ItemL key={item.id} title={item.title} icon={item.icon} />)}
       </div>
     </div>

@@ -11,7 +11,7 @@ export const Skills = () => {
         <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-amber-500 to-purple-600 bg-clip-text text-transparent text-center">
           {t("skills1.title")}
         </h2>
-        <div className='flex flex-col border-2 border-white/10 px-3 py-3 w-auto rounded-xl g-stone-950'>
+        <div className='border-2 border-white/10 px-3 py-3 w-auto rounded-xl g-stone-950'>
           <Item />
         </div>
       </div>
