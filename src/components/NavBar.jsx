@@ -23,10 +23,10 @@ export const NavBar = ({ menuOpen, setMenuOpen }) => {
 
           {/* Botón para menú en mobile */}
           <div
-            className="relative cursor-pointer z-40 md:hidden"
+            className="relative cursor-pointer z-40 md:hidden w-10 h-10 flex items-center justify-center"
             onClick={() => setMenuOpen((prev) => !prev)}
           >
-            <Menu />
+            <Menu className="w-6 h-6 text-white"/>
           </div>
 
           {/* Links de navegación */}

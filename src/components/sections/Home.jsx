@@ -6,12 +6,12 @@ export const Home = () => {
   const { t } = useTranslation();
 
   return (
-    <section id="home" className="h-full">
-      <div className="container mx-auto h-full xl:px-50 xl:pt-20">
-        <div className="flex flex-col xl:flex-row items-center justify-center xl:pt-8 xl:pb-24">
-          <div className="text-center z-10 px-4 pt-20">
-            <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-amber-500 to-purple-600 bg-clip-text text-transparent leading-right">
-              {t("home1.greeting")}
+    <section id="home" className="md:min-h-screen flex items-center justify-center">
+      <div className="container mx-auto h-full px-4 pt-20 md:pt-0">
+        <div className="flex flex-col xl:flex-row items-center justify-center">
+          <div className="text-center z-10">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-amber-500 to-purple-600 bg-clip-text text-transparent">
+          {t("home1.greeting")}
             </h1>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-amber-500 to-purple-600 bg-clip-text text-transparent leading-right">
               David Barbolin

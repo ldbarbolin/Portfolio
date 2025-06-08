@@ -12,7 +12,7 @@ export const App=()=>{
   const [menuOpen, setMenuOpen] = useState(false)
 
   return (
-    <>
+    <div className="overflow-x-hidden">
       <NavBar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <MobileMenu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Home/>
@@ -20,6 +20,7 @@ export const App=()=>{
       <Skills/>
       <Experience/>
       <Projects/>
-    </>
+    </div>
+
   )
 }
